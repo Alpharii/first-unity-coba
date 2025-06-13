@@ -1,0 +1,40 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Rider
+.idea/
+*.sln
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity crash/debug logs
+sysinfo.txt
+
+# Auto-generated meta files
+*.pidb.meta
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Packages cache
+Packages/manifest.json
+Packages/
